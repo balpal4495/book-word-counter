@@ -6,6 +6,17 @@
 * npm v3.8.6
 
 # Run instructions
+install dependencies
+
+```
+npm install 
+```
+or 
+
+```
+yarn
+```
+
 ```
 node attempt1.js
 ```
