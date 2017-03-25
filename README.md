@@ -17,6 +17,8 @@ or
 yarn
 ```
 
+then run
+
 ```
 node attempt1.js
 ```
